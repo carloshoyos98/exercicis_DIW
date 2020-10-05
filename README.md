@@ -1,2 +1,2 @@
-# exercicis_DIW
+# EXERCICIS DIW
 Exercicis de DIW
